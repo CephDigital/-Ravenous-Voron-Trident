@@ -1,1 +1,2 @@
 Custom[[:space:]]Voron[[:space:]]Trident[[:space:]]_Ravenous_.f3z filter=lfs diff=lfs merge=lfs -text
+*.f3z filter=lfs diff=lfs merge=lfs -text
