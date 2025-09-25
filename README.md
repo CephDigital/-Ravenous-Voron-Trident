@@ -3,7 +3,8 @@ An upscaled Voron Trident to use 3030 extrusions and 9 / 10mm belts. There are t
 
 ## V1.8
 
-This exact version can be seen in my serial request here: [![Serial Request VT301](https://img.youtube.com/vi/5OSlTTg0WkM/0.jpg)](https://www.youtube.com/watch?v=5OSlTTg0WkM)
+This exact version can be seen in my serial request here: 
+[![Serial Request VT301](https://img.youtube.com/vi/5OSlTTg0WkM/0.jpg)](https://www.youtube.com/watch?v=5OSlTTg0WkM)
 
 <img width="1437" height="1737" alt="Voron V1 8" src="https://github.com/user-attachments/assets/32f0476c-7725-4d94-81d2-18d53c7019b4" />
 
